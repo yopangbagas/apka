@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">even</string>
+    <string name="judul">aplikasi pertama</string>
+    <string name="login">LOGIN</string>
+    <string name="usr">user</string>
+    <string name="pwd">password</string>
+    <string name="okBtn">OK</string>
+</resources>
